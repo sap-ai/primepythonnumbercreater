@@ -1,5 +1,6 @@
 # primepythonnumbercreater
-# It uses this math (x)3-(1+x%2).
+# It uses this math f(x)=(x)3-(1+x%2).
 ```python
-import
+import main
+#plug in the x to the prime number
 ```

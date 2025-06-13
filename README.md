@@ -6,3 +6,4 @@ import main
 prime(1)
 #result 1
 ```
+this stratagey is new more effecient and invented by me.
